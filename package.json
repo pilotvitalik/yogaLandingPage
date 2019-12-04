@@ -1,0 +1,22 @@
+{
+  "name": "yoga",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "bootstrap",
+    "JS",
+    "HTML",
+    "CSS",
+    "Less"
+  ],
+  "author": "Vitalij Kozhushko",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
